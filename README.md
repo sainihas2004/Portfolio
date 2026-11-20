@@ -2,6 +2,10 @@
 
 A modern, high-performance, dark-themed developer portfolio website built with **React**, **Vite**, and **Tailwind CSS**. Designed specifically for placement drives, recruiters, and technical interviewers.
 
+🔗 **Live Demo:** [https://portfolio-wtue.netlify.app](https://portfolio-wtue.netlify.app)
+
+[![Netlify Status](https://img.shields.io/badge/Live%20on-Netlify-00C7B7?logo=netlify&logoColor=white)](https://portfolio-wtue.netlify.app)
+
 ---
 
 ## 🌟 Highlights & Features
